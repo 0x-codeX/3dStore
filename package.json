@@ -1,8 +1,5 @@
 {
   "name": "maisonvell",
   "private": true,
-  "version": "1.0.0",
-  "scripts": {
-    "start": "node server.js"
-  }
+  "version": "1.0.0"
 }
